@@ -12,12 +12,6 @@ Feature: Automating Docker Hub
     And Navigate to settings
     When Verify the setting page
     Then Delete the repo
-    Then Verify home page
-    Then Create new repo
-    And Fill repo info
-    Then Create repo button
-    And Navigate to settings
-    When Verify the setting page
-    Then Delete the repo
+
     Then Verify home page
     Then Close browser
