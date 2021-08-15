@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>DockerTestSuite</name>
+   <name>FF Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>82db6475-51f5-40a3-b029-e581e545d553</testSuiteGuid>
+   <testSuiteGuid>4347d694-23aa-4530-8901-5a27d2656a91</testSuiteGuid>
    <testCaseLink>
-      <guid>929323fb-2ccf-4b09-9a46-dfcaf3837561</guid>
+      <guid>1de04ed0-cb5d-4cf3-b8b1-070f54b75e13</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test</testCaseId>
+      <testCaseId>Test Cases/RunFF</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
