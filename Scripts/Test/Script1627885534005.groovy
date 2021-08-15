@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/1st spy/Page_Docker Hub/VerifyHome
 
 WebUI.click(findTestObject('Object Repository/1st spy/Page_Docker Hub/Create Repository'))
 
-WebUI.sendKeys(findTestObject('Object Repository/ggg/Page_Docker Hub/input_Name_name'), 'docker')
+WebUI.sendKeys(findTestObject('Object Repository/ggg/Page_Docker Hub/input_Name_name'), 'docker_1')
 
 WebUI.sendKeys(findTestObject('Object Repository/1st spy/Page_Docker Hub/input_Description'), 'Test repo')
 
@@ -49,7 +49,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/1st spy/Page_Docker Hub/
 
 WebUI.click(findTestObject('Object Repository/1st spy/Page_Docker Hub/Delete_button'))
 
-WebUI.sendKeys(findTestObject('Object Repository/1st spy/Page_Docker Hub/imageNameField'), 'docker')
+WebUI.sendKeys(findTestObject('Object Repository/1st spy/Page_Docker Hub/imageNameField'), 'docker_1')
 
 WebUI.click(findTestObject('Object Repository/1st spy/Page_Docker Hub/Delete_button (1)'))
 
