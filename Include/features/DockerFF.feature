@@ -21,5 +21,6 @@ Feature: Automating Docker Hub
     When Verify the setting page
     Then Delete the repo
     Then Verify home page
+    
     Then Close browser
     
